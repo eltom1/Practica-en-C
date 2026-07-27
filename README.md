@@ -1,3 +1,1 @@
 # Practica-en-C
-
-hola
