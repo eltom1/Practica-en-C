@@ -37,7 +37,7 @@ void ej10(){
 
 int main(){
     //ej8();
-    ej9();
+    //ej9();
     ej10();
     return 0;
 }
